@@ -8,9 +8,7 @@ testimonial:
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
     date: Dec 26, 2018
-    content: 'Great service Thanks a Lot
-
-'
+    content: "Great service Thanks a Lot \n"
   - name: Mark Dinn
     image: images/client/client-2.jpg
     image_webp: images/client/client-2.webp
